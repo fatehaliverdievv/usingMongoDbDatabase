@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\views\\telebe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\views\\telebe\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\controllers\\telebecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\controllers\\telebecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\views\\telebe\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\views\\telebe\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\views\\telebe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\views\\telebe\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\models\\telebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\models\\telebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|c:\\users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\models\\telebesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A2A78-3D26-4290-BE0C-C95B0C147E4D}|nosqllllll\\nosqllllll.csproj|solutionrelative:nosqllllll\\models\\telebesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:618693198:0:{13143d73-808b-4a2f-bebb-ccbe9c93fe37}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Program.cs",
+              "RelativeDocumentMoniker": "nosqllllll\\Program.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Program.cs",
+              "RelativeToolTip": "nosqllllll\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:01:04.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "nosqllllll\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "nosqllllll\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:08:26.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Telebe\\Index.cshtml",
+              "RelativeDocumentMoniker": "nosqllllll\\Views\\Telebe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Telebe\\Index.cshtml",
+              "RelativeToolTip": "nosqllllll\\Views\\Telebe\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T09:41:42.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Services\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "nosqllllll\\Services\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Services\\MongoDbService.cs",
+              "RelativeToolTip": "nosqllllll\\Services\\MongoDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:23:34.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "nosqllllll\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "nosqllllll\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T10:56:57.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nosqllllll\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nosqllllll\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T10:57:02.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "nosqllllll\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "nosqllllll\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T10:56:58.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TelebeSearch.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Models\\TelebeSearch.cs",
+              "RelativeDocumentMoniker": "nosqllllll\\Models\\TelebeSearch.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Models\\TelebeSearch.cs",
+              "RelativeToolTip": "nosqllllll\\Models\\TelebeSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:27:48.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TelebeController.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Controllers\\TelebeController.cs",
+              "RelativeDocumentMoniker": "nosqllllll\\Controllers\\TelebeController.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Controllers\\TelebeController.cs",
+              "RelativeToolTip": "nosqllllll\\Controllers\\TelebeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:31:24.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Telebe\\Edit.cshtml",
+              "RelativeDocumentMoniker": "nosqllllll\\Views\\Telebe\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Telebe\\Edit.cshtml",
+              "RelativeToolTip": "nosqllllll\\Views\\Telebe\\Edit.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T11:08:22.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Telebe\\Create.cshtml",
+              "RelativeDocumentMoniker": "nosqllllll\\Views\\Telebe\\Create.cshtml",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Telebe\\Create.cshtml",
+              "RelativeToolTip": "nosqllllll\\Views\\Telebe\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T11:49:37.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "nosqllllll\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "nosqllllll\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T11:33:24.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Telebe.cs",
+              "DocumentMoniker": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Models\\Telebe.cs",
+              "RelativeDocumentMoniker": "nosqllllll\\Models\\Telebe.cs",
+              "ToolTip": "C:\\Users\\fateh\\source\\repos\\nosqllllll\\nosqllllll\\Models\\Telebe.cs",
+              "RelativeToolTip": "nosqllllll\\Models\\Telebe.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:20:39.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

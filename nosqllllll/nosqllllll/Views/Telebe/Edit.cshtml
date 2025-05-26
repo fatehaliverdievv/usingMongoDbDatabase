@@ -1,0 +1,74 @@
+﻿@model nosqllllll.Models.Telebe
+
+@{
+    ViewData["Title"] = "Tələbə Məlumatlarını Dəyişdir";
+}
+
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <h3 class="text-center mb-4">Tələbə Məlumatlarını Dəyişdir</h3>
+
+                <form method="post" class="p-4 border rounded bg-light shadow-sm">
+                    <div class="mb-3">
+                        <label for="Ad" class="form-label">Ad</label>
+                        <input type="text" class="form-control" id="Ad" name="Ad" value="@Model.Ad" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="Soyad" class="form-label">Soyad</label>
+                        <input type="text" class="form-control" id="Soyad" name="Soyad" value="@Model.Soyad" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="AtaAd" class="form-label">Ata Adı</label>
+                        <input type="text" class="form-control" id="AtaAd" name="AtaAd" value="@Model.AtaAd" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="Qrup" class="form-label">Qrup</label>
+                        <input type="text" class="form-control" id="Qrup" name="Qrup" value="@Model.Qrup" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="Cins" class="form-label">Cins</label>
+                        <select class="form-control" id="Cins" name="Cins">
+                            <option value="Kişi" selected="@Model.Cins == " Kişi"">Kişi</option>
+                            <option value="Qadın" selected="@Model.Cins == " Qadın"")>Qadın</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="Ortalama" class="form-label">Ortalama</label>
+                        <input type="number" class="form-control" id="Ortalama" name="Ortalama" step="0.1" value="@Model.Ortalama" required />
+                    </div>
+
+                    <div class="mb-4">
+                        <label for="Teqaud" class="form-label">Təqaüd</label>
+                        <select class="form-control" id="Teqaud" name="Teqaud">
+                            <option value="Almır" selected="@Model.Teqaud == " Almır"">Almır</option>
+                            <option value="Adi" selected="@Model.Teqaud == " Adi"">Adi</option>
+                            <option value="Zərbəçi" selected="@Model.Teqaud == " Zərbəçi"">Zərbəçi</option>
+                            <option value="Əlaçı" selected="@Model.Teqaud == " Əlaçı"">Əlaçı</option>
+                        </select>
+                    </div>
+
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary">Yenilə</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

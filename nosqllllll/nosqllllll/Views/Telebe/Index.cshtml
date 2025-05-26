@@ -1,0 +1,91 @@
+﻿@model List<nosqllllll.Models.Telebe>
+@{
+    ViewData["Title"] = "Tələbə Siyahısı";
+    var currentPage = (int)ViewBag.CurrentPage;
+    var totalPages = (int)ViewBag.TotalPages;
+}
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tələbələr Siyahısı</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">Tələbələr Siyahısı</h2>
+
+        <!-- Axtarış Barı -->
+        <form method="get" asp-action="Index" class="mb-4">
+            <div class="input-group">
+                <input type="text" name="search" class="form-control" placeholder="Ad, Soyad və ya Qrup"
+                       value="@Context.Request.Query["search"]" />
+                <button type="submit" class="btn btn-primary">Axtar</button>
+            </div>
+        </form>
+
+        <!-- Yeni Tələbə Əlavə Et -->
+        <div class="text-end mb-3">
+            <a href="@Url.Action("Create", "Telebe")" class="btn btn-success">+ Yeni Tələbə</a>
+        </div>
+
+        <!-- Tələbələr Cədvəli -->
+        <div class="table-responsive">
+            <table class="table table-striped table-hover align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Ad</th>
+                        <th>Soyad</th>
+                        <th>Ata Adı</th>
+                        <th>Qrup</th>
+                        <th>Cins</th>
+                        <th>Ortalama</th>
+                        <th>Təqaüd</th>
+                        <th>Əməliyyatlar</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        foreach (var telebe in Model)
+                        {
+                            <tr>
+                                <td>@telebe.Ad</td>
+                                <td>@telebe.Soyad</td>
+                                <td>@telebe.AtaAd</td>
+                                <td>@telebe.Qrup</td>
+                                <td>@telebe.Cins</td>
+                                <td>@telebe.Ortalama</td>
+                                <td>@telebe.Teqaud</td>
+                                <td>
+                                    <a href="@Url.Action("Edit", new { id = telebe.Id })" class="btn btn-sm btn-primary me-1">Dəyiş</a>
+                                    <a href="@Url.Action("Delete", new { id = telebe.Id })" class="btn btn-sm btn-danger">Sil</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="8" class="text-center text-muted">Heç bir tələbə tapılmadı.</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <nav>
+                <ul class="pagination justify-content-center">
+                    @for (int i = 1; i <= totalPages; i++)
+                    {
+                        <li class="page-item @(i == currentPage ? "active" : "")">
+                            <a class="page-link" asp-action="Index" asp-route-page="@i">@i</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
